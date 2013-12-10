@@ -1,0 +1,5 @@
+# Ignore everything in this folder 
+*
+# Except for this file and the .pri file
+!.gitignore
+!libwiimote.pri
